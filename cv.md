@@ -51,3 +51,21 @@ Personal qualities: dependable, initiative, versatile
 
 ---
 
+### => IN THE PROCCES OF STUDYING: ###
+
+[learn.javascript.ru](https://learn.javascript.ru/ "learn.javascript.ru")
+
+[w3schools.com](https://www.w3schools.com/js/default.asp "w3schools.com")
+
+[code-basics.com](https://ru.code-basics.com/languages/javascript "code-basics.com")
+
+[codewars.com](https://www.codewars.com/users/glazabra "codewars.com")
+
+---
+
+### => LANGUAGES: ###
+
++ English (Good reading and translating ability)
++ Russian (Native)
++ Belarusian (Native)
++ Polish (Fluent)
