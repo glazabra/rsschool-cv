@@ -39,7 +39,7 @@ Personal qualities: dependable, initiative, versatile
 + Figma
 + Zeplin
 
----
+
 ``` 
 function even_or_odd(number) {
   if (number % 2) {
