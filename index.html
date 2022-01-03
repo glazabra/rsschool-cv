@@ -4,9 +4,123 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HTML, CSS & Git Basics</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/icon/favicon-32x32.png">
+    <title>CV Vitali Liavonau</title>
 </head>
 <body>
-    <h1>HTML, CSS & Git Basics</h1>
+    <container>
+        <!-- Header -->
+    <header>
+        <nav class="nav">
+            <ul>
+                <li><a href="#about">About Myself</a></li>
+                <li><a href="#skills">My Core Skills</a></li>
+                <li><a href="#code">Code</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <!-- End Header -->
+    <!-- Main -->
+    <main>
+        <!-- Section Basic -->
+        <section class="basic">
+            <figure class="photo">
+                <img src="img/vlphoto_02.jpg" alt="Vitali Liavonau">
+            </figure>
+            <div class="basicItem">
+                <h1>Vitali Liavonau</h1>
+                <h2>Student of RSScholl</h2>
+                <h3>JS/FE Pre-School 2022</h3>
+                <a href="https://app.rs.school/profile?githubId=glazabra" target="_blank">app.rs.school/profile</a>
+            </div>
+        </section>
+        <!-- End Section Basic -->
+        <!-- Section About -->
+        <section class="about">
+            <div class="aboutRight">
+                <h5>Vilnius (Lithuania)</h5>
+                <p>+37061975631</p>
+                <p>leonoff.grodno@gmail.com</p>
+                <h2 id="skills">My Core Skills:</h2>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Bootstrap</li>
+                    <li>Flexbox</li>
+                    <li>Grid</li>
+                    <li>Adobe PhotoShop</li>
+                    <li>Figma</li>
+                    <li>Zeplin</li>
+                </ul>
+            </div>
+            <div class="aboutItem">
+                <p class="mySelf" id="about">About Myself:</p><br>
+                <p class="itemText">I started my Front End in 2009. It was a successful experiment. I have been working on the design of web pages, css, html. I lived in Belarus. Now I live in Vilnius. I want to contribute professional skills to achieving your company's goals as an Front End Developer. Now I am learning Javascript.</p><br>
+                <p class="itemText">
+                    I have been working in creative professions for 20 years. My main practice is Sound Design, including Web Sound. I am a professional sound engineer and composer. But the situation led me to retrain. Motivated for career change goal.
+                </p><br>
+                <p class="itemText">
+                    I am constantly working on the study of new technologies, trying to keep up with the times. Strong background in html and css.
+                </p><br>
+                <p class="itemText">
+                    Personal qualities: dependable, initiative, versatile
+                </p><br>
+                <p class="itemText">
+                    Higher education: "Belarusian State Academy of Arts"
+                </p>
+            </div>
+        </section>
+        <!-- End Section About -->
+        <!-- Section Education-->
+        <section class="education">
+            <div class="educationCode" id="code">
+                <div class="leftCode">
+                    <p>CodeWars</p>
+                    <pre>
+function even_or_odd(number) {
+    if (number % 2) {
+        return 'Odd';
+    } else {
+        return 'Even'
+    }
+}
+                    </pre>
+                </div>
+                <div class="leftCode">
+                    <p>CodeWars</p>
+                    <pre>
+function areYouPlayingBanjo(name) {
+    if (name[0] == 'r') {
+        return name + " plays banjo";
+    } else if (name[0] == 'R') {
+        return name + " plays banjo";
+    } else
+        return name + " does not play banjo";
+}
+                    </pre>
+                </div>
+            </div>
+            <div class="studying"> 
+                <h2 class="mySelf">Progress Of Studying: </h2>
+                    <a href="https://learn.javascript.ru/">learn.javascript.ru</a>
+                    <a href="https://www.w3schools.com/js/default.asp">www.w3schools.com</a>
+                    <a href="https://ru.code-basics.com/languages/javascript">code-basics.com</a>
+                    <a href="https://www.codewars.com/users/glazabra">codewars.com</a> 
+            </div>
+        </section>
+        <!-- End Section Education-->
+    </main>
+    <!-- End Main -->
+    <footer>
+        <p>Vitali Liavonau / 2021</p>
+        <a href="https://github.com/glazabra" target="_blank">GitHub</a>
+        <div class="rss"><a href="https://rs.school/js/" target="_blank"><img src="img/rs_school_js.png" alt="RSScholl"></a></div>
+    </footer>
+    </container>
 </body>
 </html>

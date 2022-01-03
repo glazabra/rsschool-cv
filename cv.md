@@ -17,7 +17,8 @@ leonoff.grodno@gmail.com
 
 ---
 
-About Myself:
+#### **=> About Myself:** ####
+
 I started my Front End in 2009. It was a *successful* experiment. I have been working on the design of web pages, css, html. I lived in Belarus. Now I live in Vilnius. I want to contribute professional skills to achieving your company’s goals as an Front End Developer. Now I am learning Javascript.
 
 I have been working in creative professions for 20 years. My main practice is **Sound Design**, including Web Sound. I am a professional sound engineer and composer. But the situation led me to retrain. Motivated for career change goal.
@@ -28,7 +29,7 @@ Personal qualities: dependable, initiative, versatile
 
 ---
 
-### => MY CORE SKILLS: ###
+#### **=> MY CORE SKILLS:** ####
 
 + HTML
 + CSS
@@ -52,7 +53,7 @@ function even_or_odd(number) {
 
 ---
 
-### => IN THE PROCCES OF STUDYING: ###
+#### **=> IN THE PROCCES OF STUDYING:** ####
 
 [learn.javascript.ru](https://learn.javascript.ru/ "learn.javascript.ru")
 
@@ -64,7 +65,7 @@ function even_or_odd(number) {
 
 ---
 
-### => LANGUAGES: ###
+#### **=> LANGUAGES:** ####
 
 + English (Good reading and translating ability)
 + Russian (Native)
